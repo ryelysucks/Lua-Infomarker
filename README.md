@@ -1,5 +1,5 @@
 # Lua-Infomarker
-## GTA World styled info marker system for Roblox
+## GTA World styled info-marker system for Roblox
 
 Simple info-marker system that includes error handling, distance checks, roblox filter, etc.  
 Easy (ish) to read code that can be edited however you want.  
