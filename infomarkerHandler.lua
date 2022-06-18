@@ -87,7 +87,7 @@ end
 
 --clear a specified infomarker
 --edit: why dont I use the checkchildren function I defined literally right above this?
---i could change checkchildren to return the child if true or nil if false and then change this func
+--i could change checkchildren to return the child (or nil) and then change this func
 --i,e if checkchildren() then destroy:checkchildren or whatever
 local function clearChild(player)
 	local children = markerFolder:GetChildren()
